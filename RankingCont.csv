@@ -1,0 +1,190 @@
+Country,Continent,HDI
+Afghanistan,Asia,170
+Albania,Europe,69
+Algeria,Africa,82
+Andorra,Europe,36
+Angola,Africa,149
+Antigua and Barbuda,North America,74
+Argentina,South America,48
+Armenia,Europe,81
+Australia,Oceania,6
+Austria,Europe,20
+Azerbaijan,Europe,87
+Bahamas,North America,60
+Bahrain,Asia,45
+Bangladesh,Asia,135
+Barbados,North America,56
+Belarus,Europe,50
+Belgium,Europe,17
+Belize,North America,103
+Benin,Africa,163
+Bhutan,Asia,134
+Bolivia (Plurinational State of),South America,114
+Bosnia and Herzegovina,Europe,75
+Botswana,Africa,94
+Brazil,South America,79
+Brunei Darussalam,Asia,43
+Bulgaria,Europe,52
+Burkina Faso,Africa,182
+Burundi,Africa,185
+Côte d'Ivoire,Africa,165
+Cabo Verde,Africa,126
+Cambodia,Asia,146
+Cameroon,Africa,150
+Canada,North America,13
+Central African Republic,Africa,188
+Chad,Africa,187
+Chile,South America,42
+China,Asia,85
+Colombia,South America,79
+Comoros,Africa,156
+Congo,Africa,138
+Congo (Democratic Republic of the),Africa,179
+Costa Rica,North America,68
+Croatia,Europe,46
+Cuba,North America,72
+Cyprus,Europe,31
+Czechia,Europe,26
+Denmark,Europe,11
+Djibouti,Africa,171
+Dominica,North America,98
+Dominican Republic,North America,89
+Ecuador,South America,85
+Egypt,Africa,116
+El Salvador,North America,124
+Equatorial Guinea,Africa,144
+Eritrea,Africa,182
+Estonia,Europe,30
+Eswatini (Kingdom of),Africa,138
+Ethiopia,Africa,173
+Fiji,Oceania,98
+Finland,Europe,12
+France,Europe,26
+Gabon,Africa,115
+Gambia,Africa,174
+Georgia,Europe,70
+Germany,Europe,4
+Ghana,Africa,142
+Greece,Europe,32
+Grenada,North America,78
+Guatemala,North America,126
+Guinea,Africa,174
+Guinea-Bissau,Africa,178
+Guyana,South America,123
+Haiti,North America,169
+Honduras,North America,132
+"Hong Kong, China (SAR)",Asia,4
+Hungary,Europe,43
+Iceland,Europe,6
+India,Asia,129
+Indonesia,Asia,111
+Iran (Islamic Republic of),Asia,65
+Iraq,Asia,120
+Ireland,Europe,3
+Israel,Asia,22
+Italy,Europe,29
+Jamaica,North America,96
+Japan,Asia,19
+Jordan,Asia,102
+Kazakhstan,Europe,50
+Kenya,Africa,147
+Kiribati,Oceania,132
+Korea (Republic of),Asia,22
+Kuwait,Asia,57
+Kyrgyzstan,Asia,122
+Lao People's Democratic Republic,Asia,140
+Latvia,Europe,39
+Lebanon,Asia,93
+Lesotho,Africa,164
+Liberia,Africa,176
+Libya,Africa,110
+Liechtenstein,Europe,18
+Lithuania,Europe,34
+Luxembourg,Europe,21
+Madagascar,Africa,162
+Malawi,Africa,172
+Malaysia,Asia,61
+Maldives,Asia,104
+Mali,Africa,184
+Malta,Europe,28
+Marshall Islands,Oceania,117
+Mauritania,Africa,161
+Mauritius,Africa,66
+Mexico,North America,76
+Micronesia (Federated States of),Oceania,135
+Moldova (Republic of),Europe,107
+Mongolia,Asia,92
+Montenegro,Europe,52
+Morocco,Africa,121
+Mozambique,Africa,180
+Myanmar,Asia,145
+Namibia,Africa,130
+Nepal,Asia,147
+Netherlands,Europe,10
+New Zealand,Oceania,14
+Nicaragua,North America,126
+Niger,Africa,189
+Nigeria,Africa,158
+North Macedonia,Europe,82
+Norway,Europe,1
+Oman,Asia,47
+Pakistan,Asia,152
+Palau,Oceania,55
+"Palestine, State of",Asia,119
+Panama,North America,67
+Papua New Guinea,Oceania,155
+Paraguay,South America,98
+Peru,South America,82
+Philippines,Asia,106
+Poland,Europe,32
+Portugal,Europe,40
+Qatar,Asia,41
+Romania,Europe,52
+Russian Federation,Europe,49
+Rwanda,Africa,157
+Saint Kitts and Nevis,North America,73
+Saint Lucia,North America,89
+Saint Vincent and the Grenadines,North America,94
+Samoa,Oceania,111
+Sao Tome and Principe,Africa,137
+Saudi Arabia,Asia,36
+Senegal,Africa,166
+Serbia,Europe,63
+Seychelles,Africa,62
+Sierra Leone,Africa,181
+Singapore,Asia,9
+Slovakia,Europe,36
+Slovenia,Europe,24
+Solomon Islands,Oceania,153
+South Africa,Africa,113
+South Sudan,Africa,186
+Spain,Europe,25
+Sri Lanka,Asia,71
+Sudan,Africa,168
+Suriname,South America,98
+Sweden,Europe,8
+Switzerland,Europe,2
+Syrian Arab Republic,Asia,154
+Tajikistan,Asia,125
+Tanzania (United Republic of),Africa,159
+Thailand,Asia,77
+Timor-Leste,Asia,131
+Togo,Africa,167
+Tonga,Oceania,105
+Trinidad and Tobago,North America,63
+Tunisia,Africa,91
+Turkey,Europe,59
+Turkmenistan,Asia,108
+Uganda,Africa,159
+Ukraine,Europe,88
+United Arab Emirates,Asia,35
+United Kingdom,Europe,15
+United States,North America,15
+Uruguay,South America,57
+Uzbekistan,Asia,108
+Vanuatu,Oceania,141
+Venezuela (Bolivarian Republic of),South America,96
+Viet Nam,Asia,118
+Yemen,Asia,177
+Zambia,Africa,143
+Zimbabwe,Africa,150

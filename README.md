@@ -20,10 +20,10 @@ is the orginial data file for the percentage of birth rates from UNDP.
 is the orginial data file with country, continent, and the Gender Inequality Index ranking.
 
 # Gridplot.html
-is a plot I made from bokeh
+is a plot I made from bokeh.
 
 # Interactive Data Visualization Project
-is a folder with all of theses files
+is a folder with all of theses files.
 
 # Labour force participation rate (% ages 15 and older), female.csv
 is the orginal data file of the indicator.
@@ -41,9 +41,9 @@ is the orginal data file of the indicator.
 is a html version of my code.
 
 # Visualizing Gender Inequality -Martha Czernuszenko(1).ipynb
-is a python file of my code
+is a python file of my code.
 
 # Yemen_Seats.html
-is a bokeh plot
+is a bokeh plot.
 
 
